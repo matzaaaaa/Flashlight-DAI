@@ -1,0 +1,7 @@
+npm i expo-cli -g
+expo install expo-camera
+expo install expo-brightness
+npm install react-native-torch --save
+npm install react-native-flashlight --save
+npm i CameraManager
+npx expo install expo-splash-screen
